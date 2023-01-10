@@ -1,5 +1,5 @@
 {
-  "name": "meetin",
+  "name": "awesomeproject",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -12,10 +12,7 @@
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5",
-    "react-native-web": "~0.18.9",
-    "react-dom": "18.1.0",
-    "@expo/webpack-config": "^0.17.2"
+    "react-native": "0.70.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
